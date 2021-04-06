@@ -1,7 +1,7 @@
 # Resources
 Updated: 7-4-2021
 
-* [HTML & CSS validator](https://validator.w3.org/nu/#textarea){:target="_blank"}
+* [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
 * [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
 * [CDNJS](https://cdnjs.com)
 * [Javascript event keycodes](https://keycode.info)
