@@ -28,9 +28,6 @@ Updated: 7-4-2021
 * [Google Icons](https://fonts.google.com/icons)
 * [Font awesome](https://fontawesome.com)
 
-
-
-
 ## Image Compression
 * [Optimizilla](https://imagecompressor.com)
 * [Tiny JPG](https://tinyjpg.com)
