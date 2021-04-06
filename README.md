@@ -11,7 +11,10 @@ Updated: 6-4-2021
 * [Taskade - All-in-one-collaboration](https://www.taskade.com)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
-
+* [Glassmorphism](https://glassmorphism.com)
+* [Create beautiful images of your code](https://ray.so)
+* [Another, bigger, resources list](https://free-for.dev/#/)
+* [EStimator - Check how much JS your website ships](https://estimator.dev)
 
 
 
@@ -53,6 +56,13 @@ Updated: 6-4-2021
 
 ## SVG
 * [SVG Waves](https://www.svgwaves.io)
+* [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
+
+
+
+## Pattern Generators
+* [Pattern Generator](https://doodad.dev/pattern-generator/)
+* [Pattern Generator 2](https://tabbied.com)
 
 
 
