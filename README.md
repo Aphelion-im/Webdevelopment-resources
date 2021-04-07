@@ -1,5 +1,5 @@
 # Resources
-Updated: 7-4-2021
+Updated: 8-4-2021
 
 * [Ebooks library (Recommended!)](https://1lib.nl)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
@@ -24,10 +24,17 @@ Updated: 7-4-2021
 * [JSON formatter and validator](https://jsonformatter.curiousconcept.com)
 
 
-## Fonts & Icons
+## Fonts
 * [Google Fonts](https://fonts.google.com)
+* [Font Squirrel](https://www.fontsquirrel.com)
+
+## Icons
+* [Font Awesome](https://fontawesome.com)
 * [Google Icons](https://fonts.google.com/icons)
-* [Font awesome](https://fontawesome.com)
+* [Phospor Icons](https://phosphoricons.com)
+* [Radix Icons](https://icons.modulz.app)
+* [Animated Icons](https://icons8.com/animated-icons)
+* [Basicons](https://basicons.xyz)
 
 ## Image Compression
 * [Optimizilla](https://imagecompressor.com)
@@ -51,11 +58,12 @@ Updated: 7-4-2021
 
 
 
-## Pattern Generators
+## Generators
 * [Pattern Generator](https://doodad.dev/pattern-generator/)
 * [Pattern Generator 2](https://tabbied.com)
-
-
+* [Pattern Generator 3](https://www.magicpattern.design/tools/css-backgrounds)
+* [Pattern Pad](https://patternpad.com/editor.html)
+* [Background Generator](https://bgjar.com)
 
 ## Visual Studio Code Extensions
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
@@ -73,8 +81,9 @@ Updated: 7-4-2021
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-
-
+## Free Music & Sound effects
+* [CCHound](https://cchound.com)
+* [BBC Sound effects](https://sound-effects.bbcrewind.co.uk)
 
 
 
