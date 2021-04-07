@@ -1,6 +1,7 @@
 # Resources
 Updated: 7-4-2021
 
+* [Ebooks library (Recommended!)](https://1lib.nl)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
 * [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
 * [CDNJS](https://cdnjs.com)
