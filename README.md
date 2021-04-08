@@ -1,5 +1,5 @@
 # Resources
-Updated: 8-4-2021
+Updated: 9-4-2021
 
 * [Ebooks library (Recommended!)](https://1lib.nl)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
@@ -35,6 +35,7 @@ Updated: 8-4-2021
 * [Radix Icons](https://icons.modulz.app)
 * [Animated Icons](https://icons8.com/animated-icons)
 * [Basicons](https://basicons.xyz)
+* [Tabler Icons](https://tablericons.com)
 
 ## Image Compression
 * [Optimizilla](https://imagecompressor.com)
