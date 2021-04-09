@@ -88,8 +88,9 @@ Updated: 9-4-2021
 * [CCHound](https://cchound.com)
 * [BBC Sound effects](https://sound-effects.bbcrewind.co.uk)
 
-
-
+## Git & Github
+* [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+* [Learn Git Branching](https://learngitbranching.js.org)
 
 
 
