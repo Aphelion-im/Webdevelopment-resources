@@ -3,7 +3,6 @@ Updated: 9-4-2021
 
 * [Ebooks library (Recommended!)](https://1lib.nl)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
-* [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
 * [CDNJS](https://cdnjs.com)
 * [Javascript event keycodes](https://keycode.info)
 * [Javascript event keycodes 2](https://keyjs.dev)
@@ -17,7 +16,10 @@ Updated: 9-4-2021
 * [Another, bigger, resources list](https://free-for.dev/#/)
 * [EStimator - Check how much JS your website ships](https://estimator.dev)
 
-
+## Games & Tools to Learn Web Development
+* [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
+* [CSS Grid Garden](https://cssgridgarden.com)
+* [Learn Git Branching](https://learngitbranching.js.org)
 
 ## JSON
 * [JSONView - Chrome extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
