@@ -85,7 +85,6 @@ Updated: 10-4-2021
 ## Colors 
 * [Coolor](https://coolors.co)
 * [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
-* 
 
 
 ## Generators
