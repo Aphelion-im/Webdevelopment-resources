@@ -39,6 +39,7 @@ Updated: 10-4-2021
 * [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
 * [CSS Grid Garden](https://cssgridgarden.com)
 * [Learn Git Branching](https://learngitbranching.js.org)
+* [SQL Bolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com)
 
 ## JSON
 * [JSONView - Chrome extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
