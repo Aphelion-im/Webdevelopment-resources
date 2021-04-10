@@ -1,5 +1,5 @@
 # Resources
-Updated: 9-4-2021
+Updated: 10-4-2021
 
 * [Ebooks library (Recommended!)](https://1lib.nl)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
@@ -15,6 +15,25 @@ Updated: 9-4-2021
 * [Create beautiful images of your code](https://ray.so)
 * [Another, bigger, resources list](https://free-for.dev/#/)
 * [EStimator - Check how much JS your website ships](https://estimator.dev)
+
+## Responsive Web Design
+* [Responsively](https://responsively.app)
+* [Every Size](https://everysize.kibalabs.com)
+
+## Website Speed Test
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+* [Pingdom Website Speed Test](https://tools.pingdom.com)
+* [Fast or Slow](https://www.fastorslow.com/app)
+* [Image Speed Test](https://imagespeedtest.piio.co)
+
+
+## Website Uptime Monitoring
+* [Uptime Monitoring Service](https://uptimerobot.com)
+
+## Create Images From Your Source Code
+* [Create and share beautiful images of your source code](https://carbon.now.sh)
+
+
 
 ## Games & Tools to Learn Web Development
 * [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
@@ -38,6 +57,7 @@ Updated: 9-4-2021
 * [Animated Icons](https://icons8.com/animated-icons)
 * [Basicons](https://basicons.xyz)
 * [Tabler Icons](https://tablericons.com)
+* [Line Icons](https://lineicons.com)
 
 ## Image Compression
 * [Optimizilla](https://imagecompressor.com)
@@ -50,6 +70,7 @@ Updated: 9-4-2021
 * [Public API's](https://public-apis.io)
 
 ## Online Photoshop
+* [Photopea](https://www.photopea.com)
 * [Pixlr - Online Photoshop](https://pixlr.com/nl/e/#editor)
 * [Affinity Photo - Photoshop alternative](https://affinity.serif.com/en-gb/photo/)
 * [Affinity Designer - Illustrator alternative](https://affinity.serif.com/en-gb/designer/)
@@ -57,8 +78,14 @@ Updated: 9-4-2021
 
 ## SVG
 * [SVG Waves](https://www.svgwaves.io)
+* [Custom Shape Dividers](https://www.shapedivider.app)
+* [Generate blobs](https://blobs.app)
 * [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
 
+## Colors 
+* [Coolor](https://coolors.co)
+* [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
+* 
 
 
 ## Generators
