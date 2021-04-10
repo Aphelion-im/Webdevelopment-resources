@@ -1,5 +1,5 @@
 # Resources
-Updated: 10-4-2021
+Updated: 11-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -66,6 +66,8 @@ Updated: 10-4-2021
 * [Basicons](https://basicons.xyz)
 * [Tabler Icons](https://tablericons.com)
 * [Line Icons](https://lineicons.com)
+* [SVG Icons](https://www.iconshock.com/svg-icons/)
+* [Animated SVG Icons](https://getloaf.io)
 
 ## Image Compression
 * [Optimizilla](https://imagecompressor.com)
@@ -95,6 +97,7 @@ Updated: 10-4-2021
 * [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
 
 ## Colors 
+* [All in one resource for finding everything about colors](https://colorsinspo.com)
 * [Coolor](https://coolors.co)
 * [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
 
@@ -125,6 +128,7 @@ Updated: 10-4-2021
 ## Free Music & Sound effects
 * [CCHound](https://cchound.com)
 * [BBC Sound effects](https://sound-effects.bbcrewind.co.uk)
+* [Unminus - Free Premium Music for Your Projects](https://www.unminus.com)
 
 ## Git & Github
 * [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
@@ -134,6 +138,7 @@ Updated: 10-4-2021
 ## Database
 * [EasyDB - A one-click database. No server required](https://easydb.io)
 
-
+## Resume Builder
+* [Free Online Resume Builder and Resume Templates](https://flowcv.io)
 
 
