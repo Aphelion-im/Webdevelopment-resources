@@ -1,6 +1,7 @@
 # Resources
 Updated: 10-4-2021
 
+## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
 * [CDNJS](https://cdnjs.com)
