@@ -40,6 +40,7 @@ Updated: 10-4-2021
 
 
 ## Games & Tools to Learn Web Development
+* [Codewars](https://www.codewars.com)
 * [Flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
 * [Flexbox Defense](http://www.flexboxdefense.com)
 * [CSS Grid Garden](https://cssgridgarden.com)
