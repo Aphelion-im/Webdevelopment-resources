@@ -28,7 +28,7 @@ Updated: 10-4-2021
 
 
 ## Website Uptime Monitoring
-* [Uptime Monitoring Service](https://uptimerobot.com)
+* [Uptime Robot - Uptime Monitoring Service](https://uptimerobot.com)
 
 ## Create Images From Your Source Code
 * [Create and share beautiful images of your source code](https://carbon.now.sh)
