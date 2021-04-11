@@ -116,7 +116,7 @@ Updated: 12-4-2021
 ## JSON
 * [JSONView - Chrome extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 * [JSON formatter and validator](https://jsonformatter.curiousconcept.com)
-
+* [JSON Linter](https://jsonlint.com)
 
 # Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
