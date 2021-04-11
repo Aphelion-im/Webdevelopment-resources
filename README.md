@@ -131,7 +131,7 @@ Updated: 11-4-2021
 * [Unminus - Free Premium Music for Your Projects](https://www.unminus.com)
 
 ## Git & Github
-* [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+* [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Git Explorer](https://gitexplorer.com)
 
