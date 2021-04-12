@@ -50,6 +50,9 @@ Updated: 12-4-2021
 ## Fonts
 * [Google Fonts](https://fonts.google.com)
 * [Font Squirrel](https://www.fontsquirrel.com)
+* [Cufon Fonts](https://www.cufonfonts.com)
+
+
 
 ## Font pairings & Typography
 * [Font Pairings](https://fontpairings.bypeople.com)
