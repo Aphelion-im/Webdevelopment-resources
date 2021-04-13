@@ -93,6 +93,8 @@ Updated: 12-4-2021
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Git Explorer](https://gitexplorer.com)
 
+## HTML TO JSX
+[Transform Tools: HTML to JSX](https://transform.tools/html-to-jsx)
 
 ## Icons
 * [Font Awesome](https://fontawesome.com)
@@ -121,7 +123,7 @@ Updated: 12-4-2021
 * [JSON formatter and validator](https://jsonformatter.curiousconcept.com)
 * [JSON Linter](https://jsonlint.com)
 
-# Lorem Ipsum & Image Placeholders
+## Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
 
 
