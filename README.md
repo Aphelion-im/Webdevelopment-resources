@@ -28,6 +28,8 @@ Updated: 16-4-2021
 * [Public API's 2](https://public-apis.xyz)
 * [Superhero API](https://superheroapi.com/index.html)
 * [Generate Unique Images from Any Text](https://robohash.org)
+* [Illustrated Avatar Collection](https://joeschmoe.io) 
+* [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
 
 
 ## Colors 
@@ -52,7 +54,7 @@ Updated: 16-4-2021
 * [Google Fonts](https://fonts.google.com)
 * [Font Squirrel](https://www.fontsquirrel.com)
 * [Cufon Fonts](https://www.cufonfonts.com)
-
+* [Public Sans](https://public-sans.digital.gov)
 
 
 ## Font pairings & Typography
@@ -87,6 +89,7 @@ Updated: 16-4-2021
 * [Pattern Pad](https://patternpad.com/editor.html)
 * [Background Generator](https://bgjar.com)
 * [Random Lists - Random Generator of Everything](https://www.randomlists.com)
+* [Fake Person Generator](https://www.fakepersongenerator.com)
 
 ## Git & Github
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
@@ -109,6 +112,7 @@ Updated: 16-4-2021
 * [Line Icons](https://lineicons.com)
 * [SVG Icons](https://www.iconshock.com/svg-icons/)
 * [Animated SVG Icons](https://getloaf.io)
+* [Unicons](https://iconscout.com/unicons)
 
 
 ## Image Compression
@@ -144,6 +148,11 @@ Updated: 16-4-2021
 ## Resume Builder
 * [Free Online Resume Builder and Resume Templates](https://flowcv.io)
 * [Resume Editor and Resume Templates](https://app.enhancv.com/resume/new)
+
+## Stock
+[LandingStock - Free Images for Your Landingpage](https://landingstock.com)
+[Pexels](https://www.pexels.com/videos)
+
 
 ## SVG
 * [SVG Waves](https://www.svgwaves.io)
