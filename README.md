@@ -30,6 +30,11 @@ Updated: 17-4-2021
 * [Generate Unique Images from Any Text](https://robohash.org)
 * [Illustrated Avatar Collection](https://joeschmoe.io) 
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
+* [API List: A public list of free API's](https://apilist.fun)
+* [SWAPI - The Star Wars API](https://swapi.py4e.com)
+* [Numbers API](http://numbersapi.com/#42)
+* [Chuck Norris Jokes API](https://api.chucknorris.io)
+* [PokéAPI](https://pokeapi.co)
 
 
 
@@ -131,6 +136,12 @@ Updated: 17-4-2021
 
 ## Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
+
+## Particles
+* [Particles JS](https://vincentgarreau.com/particles.js/)
+
+## Patterns 
+* [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
 
 
 ## Photoshop Online
