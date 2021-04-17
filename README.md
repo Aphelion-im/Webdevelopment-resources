@@ -29,6 +29,7 @@ Updated: 17-4-2021
 * [Generate Unique Images from Any Text](https://robohash.org)
 * [Illustrated Avatar Collection](https://joeschmoe.io) 
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
+* [JSON Placeholder - Free Fake Rest API](https://jsonplaceholder.typicode.com)
 
 
 ## Colors 
@@ -63,7 +64,7 @@ Updated: 17-4-2021
 
 
 ## Forms
-[Formspree - Custom Forms with No Server Code](https://formspree.io)
+* [Formspree - Custom Forms with No Server Code](https://formspree.io)
 
 ## Free Music & Sound effects
 * [CCHound](https://cchound.com)
@@ -97,7 +98,7 @@ Updated: 17-4-2021
 * [Git Explorer](https://gitexplorer.com)
 
 ## HTML TO JSX
-[Transform Tools: HTML to JSX](https://transform.tools/html-to-jsx)
+* [Transform Tools: HTML to JSX](https://transform.tools/html-to-jsx)
 
 ## Icons
 * [Font Awesome](https://fontawesome.com)
@@ -151,8 +152,8 @@ Updated: 17-4-2021
 * [Resume Editor and Resume Templates](https://app.enhancv.com/resume/new)
 
 ## Stock
-[LandingStock - Free Images for Your Landingpage](https://landingstock.com)
-[Pexels](https://www.pexels.com/videos)
+* [LandingStock - Free Images for Your Landingpage](https://landingstock.com)
+* [Pexels](https://www.pexels.com/videos)
 
 
 ## SVG
