@@ -173,6 +173,7 @@ Updated: 17-4-2021
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
