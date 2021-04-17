@@ -1,5 +1,5 @@
 # Resources
-Updated: 16-4-2021
+Updated: 17-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -9,7 +9,6 @@ Updated: 16-4-2021
 * [Javascript event keycodes](https://keycode.info)
 * [Javascript event keycodes 2](https://keyjs.dev)
 * [Favicon generator](https://realfavicongenerator.net)
-* [Regexr](https://regexr.com)
 * [Taskade - All-in-one-collaboration](https://www.taskade.com)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
@@ -139,7 +138,9 @@ Updated: 16-4-2021
 * [Affinity Designer - Illustrator alternative](https://affinity.serif.com/en-gb/designer/)
 * [Affinity Publisher - Indesign alternative](https://affinity.serif.com/en-gb/publisher/)
 
-
+## RegEx
+* [RegEx 101](https://regex101.com)
+* [Regexr](https://regexr.com)
 
 ## Responsive Web Design
 * [Responsively](https://responsively.app)
