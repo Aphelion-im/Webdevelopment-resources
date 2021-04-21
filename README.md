@@ -102,7 +102,8 @@ Updated: 21-4-2021
 * [Fake Person Generator](https://www.fakepersongenerator.com)
 
 ## Git & Github
-* [GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)
+* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+* [GitHub Readme Streak Stats Demo](https://github-readme-streak-stats.herokuapp.com/demo/)
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
