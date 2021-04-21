@@ -1,5 +1,5 @@
 # Resources
-Updated: 19-4-2021
+Updated: 21-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -102,6 +102,7 @@ Updated: 19-4-2021
 * [Fake Person Generator](https://www.fakepersongenerator.com)
 
 ## Git & Github
+* [GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
