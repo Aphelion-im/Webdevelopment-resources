@@ -1,5 +1,5 @@
 # Resources
-Updated: 21-4-2021
+Updated: 22-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -187,7 +187,9 @@ Updated: 21-4-2021
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 * [CSS Suggestions](https://marketplace.visualstudio.com/items?itemName=kungfoowiz.cssSuggestions)
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
 * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -196,7 +198,7 @@ Updated: 21-4-2021
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
-* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
 
 ## Website Speed Test
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
