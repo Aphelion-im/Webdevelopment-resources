@@ -195,6 +195,7 @@ Updated: 24-4-2021
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [Peacock - Subtly change the workspace color ](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
