@@ -1,5 +1,5 @@
 # Resources
-Updated: 24-4-2021
+Updated: 26-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -131,6 +131,7 @@ Updated: 24-4-2021
 * [Optimizilla](https://imagecompressor.com)
 * [Tiny JPG](https://tinyjpg.com)
 * [Tiny PNG](https://tinypng.com)
+* [JPG Optimizer](http://www.jpeg-optimizer.com)
 
 
 
