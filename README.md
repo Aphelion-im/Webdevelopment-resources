@@ -2,7 +2,7 @@
 Updated: 26-4-2021
 
 ## Miscellaneous
-* [Ebooks library (Recommended!)](https://1lib.nl)[newtab]
+* [Ebooks library (Recommended!)](https://1lib.nl)
 * [Video ripper, editor, video recorder, etc. (Recommended!)](https://www.videoproc.com) 
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
 * [CDNJS](https://cdnjs.com)
