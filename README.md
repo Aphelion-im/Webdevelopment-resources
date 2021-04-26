@@ -127,11 +127,12 @@ Updated: 26-4-2021
 * [Unicons](https://iconscout.com/unicons)
 
 
-## Image Compression
+## Image Compression & Remove Image Meta/Exif Data
 * [Optimizilla](https://imagecompressor.com)
 * [Tiny JPG](https://tinyjpg.com)
 * [Tiny PNG](https://tinypng.com)
 * [JPG Optimizer](http://www.jpeg-optimizer.com)
+* [Check and remove Exif data](https://www.verexif.com/en/)
 
 
 
