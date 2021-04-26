@@ -206,6 +206,7 @@ Updated: 26-4-2021
 
 ## Website Speed Test
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+* [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Pingdom Website Speed Test](https://tools.pingdom.com)
 * [Fast or Slow](https://www.fastorslow.com/app)
 * [Image Speed Test](https://imagespeedtest.piio.co)
