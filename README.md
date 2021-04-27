@@ -1,5 +1,5 @@
 # Resources
-Updated: 26-4-2021
+Updated: 28-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -203,6 +203,8 @@ Updated: 26-4-2021
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 * [Thunder client - Rest API client for VS Code, lightweight Postman alternative](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
+## Visual Studio Code Themes
+* [VS Code Themes](https://vscodethemes.com)
 
 ## Website Speed Test
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
