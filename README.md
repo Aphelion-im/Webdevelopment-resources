@@ -42,6 +42,7 @@ Updated: 28-4-2021
 * [All in one resource for finding everything about colors](https://colorsinspo.com)
 * [Coolor](https://coolors.co)
 * [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
+* [The Best Free Color Tools](https://hexcolor.co}
 * [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
 * [Color Palette From An Image](https://toolki.com/en/image-palette)
 * [Color Mind - Smart Image Color Extraction](http://colormind.io/image/)
