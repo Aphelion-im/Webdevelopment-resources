@@ -126,6 +126,7 @@ Updated: 29-4-2021
 * [SVG Icons](https://www.iconshock.com/svg-icons/)
 * [Animated SVG Icons](https://getloaf.io)
 * [Unicons](https://iconscout.com/unicons)
+* [Iconmonstr](https://iconmonstr.com)
 
 
 ## Image Compression & Remove Image Meta/Exif Data
