@@ -207,6 +207,7 @@ Updated: 28-4-2021
 ## Visual Studio Code Themes
 * [VS Code Themes](https://vscodethemes.com)
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
+* [VS Code Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
 
 ## Website Speed Test
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
