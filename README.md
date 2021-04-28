@@ -1,5 +1,5 @@
 # Resources
-Updated: 28-4-2021
+Updated: 29-4-2021
 
 ## Miscellaneous
 * [Ebooks library (Recommended!)](https://1lib.nl)
@@ -144,7 +144,9 @@ Updated: 28-4-2021
 * [JSON Linter](https://jsonlint.com)
 
 ## Lorem Ipsum & Image Placeholders
+* [Placeholder Images](https://placeholder.com)
 * [Lorem Picsum](https://picsum.photos)
+
 
 ## Particles
 * [Particles JS](https://vincentgarreau.com/particles.js/)
