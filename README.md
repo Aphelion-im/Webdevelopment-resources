@@ -1,5 +1,5 @@
 # Resources
-Updated: 29-4-2021
+Updated: 30-4-2021
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -156,10 +156,13 @@ Updated: 29-4-2021
 * [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
 
 
-## Photoshop Online
+## Photoshop Online, Drawing & Graphics
 * [Affinity Designer - Illustrator alternative](https://affinity.serif.com/en-gb/designer/)
 * [Affinity Photo - Photoshop alternative](https://affinity.serif.com/en-gb/photo/)
 * [Affinity Publisher - Indesign alternative](https://affinity.serif.com/en-gb/publisher/)
+* [Autodesk Sketchbook](https://www.autodesk.com/products/sketchbook/overview) 
+* [Krita - Digital Painting](https://krita.org/en/)
+* [Medibang Paint](https://medibangpaint.com/en/)
 * [Photopea](https://www.photopea.com)
 * [Pixlr - Online Photoshop](https://pixlr.com/nl/e/#editor)
 
