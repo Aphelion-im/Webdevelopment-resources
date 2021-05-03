@@ -1,5 +1,5 @@
 # Resources
-Updated: 30-4-2021
+Updated: 3-5-2021
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -36,7 +36,10 @@ Updated: 30-4-2021
 * [Superhero API](https://superheroapi.com/index.html)
 * [SWAPI - The Star Wars API](https://swapi.py4e.com)
 
-
+## Chrome Extensions
+* [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 ## Colors 
 * [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
@@ -197,7 +200,6 @@ Updated: 30-4-2021
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
-* [CSS Suggestions](https://marketplace.visualstudio.com/items?itemName=kungfoowiz.cssSuggestions)
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
