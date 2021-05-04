@@ -1,5 +1,5 @@
 # Resources
-Updated: 3-5-2021
+Updated: 4-5-2021
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -141,9 +141,6 @@ Updated: 3-5-2021
 * [Tiny JPG](https://tinyjpg.com)
 * [Tiny PNG](https://tinypng.com)
 
-
-
-
 ## JSON
 * [JSON formatter and validator](https://jsonformatter.curiousconcept.com)
 * [JSON Linter](https://jsonlint.com)
@@ -213,6 +210,7 @@ Updated: 3-5-2021
 * [Peacock - Subtly change the workspace color ](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 * [Thunder client - Rest API client for VS Code, lightweight Postman alternative](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
