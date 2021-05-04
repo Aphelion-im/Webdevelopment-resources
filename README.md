@@ -124,7 +124,7 @@ Updated: 4-5-2021
 * [Flaticon](https://www.flaticon.com)
 * [Font Awesome](https://fontawesome.com)
 * [Glyphicons](https://glyphicons.com)
-* [Google Icons](https://fonts.google.com/icons)
+* [Google/Material Icons](https://fonts.google.com/icons)
 * [Iconmonstr](https://iconmonstr.com)
 * [Line Icons](https://lineicons.com)
 * [Phospor Icons](https://phosphoricons.com)
