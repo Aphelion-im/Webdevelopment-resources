@@ -50,7 +50,7 @@ Updated: 8-5-2021
 * [Color Palette From An Image](https://toolki.com/en/image-palette)
 * [Color Palettes Generator](https://mycolor.space)
 * [Color Picker](https://htmlcolorcodes.com/color-picker/)
-* [Coolor](https://coolors.co)
+* [Coolors - The super fast color schemes generator!](https://coolors.co)
 * [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
 * [The Best Free Color Tools](https://hexcolor.co)
 
