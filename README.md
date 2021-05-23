@@ -1,5 +1,5 @@
 # Resources
-Updated: 9-5-2021
+Updated: 23-5-2021
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -67,6 +67,8 @@ Updated: 9-5-2021
 ## Database
 * [EasyDB - A one-click database. No server required](https://easydb.io)
 
+## Developer Roadmaps
+[Developer Roadmaps](https://roadmap.sh)
 
 ## Fonts
 * [Cufon Fonts](https://www.cufonfonts.com)
