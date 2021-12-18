@@ -18,6 +18,7 @@ Updated: 23-5-2021
 * [Taskade - All-in-one-collaboration](https://www.taskade.com)
 * [Video ripper, editor, video recorder, etc. (Recommended!)](https://www.videoproc.com) 
 * [Visual Studio Code](https://code.visualstudio.com)
+* [Tile tester: Seamless background images tester](https://tile.toyls.com)
 
 
 ## API's
@@ -45,6 +46,8 @@ Updated: 23-5-2021
 
 ## Colors 
 * [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
+* [Paletton.com](https://paletton.com)
+* [Material Design color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 * [All in one resource for finding everything about colors](https://colorsinspo.com)
 * [Color Mind - Smart Image Color Extraction](http://colormind.io/image/)
 * [Color Palette From An Image](https://toolki.com/en/image-palette)
@@ -53,6 +56,8 @@ Updated: 23-5-2021
 * [Coolors - The super fast color schemes generator!](https://coolors.co)
 * [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
 * [The Best Free Color Tools](https://hexcolor.co)
+* [Flat UI colors](https://flatuicolors.com)
+* [Color picker, converter, calculator and generator with high precision and contrast test.](http://colorizer.org)
 
 
 ## Create Images From Your Source Code
@@ -68,7 +73,7 @@ Updated: 23-5-2021
 * [EasyDB - A one-click database. No server required](https://easydb.io)
 
 ## Developer Roadmaps
-[Developer Roadmaps](https://roadmap.sh)
+* [Developer Roadmaps](https://roadmap.sh)
 
 ## Fonts
 * [Cufon Fonts](https://www.cufonfonts.com)
@@ -101,6 +106,7 @@ Updated: 23-5-2021
 
 
 ## Generators
+* [Namelix - Business name generator](https://namelix.com)
 * [Background Generator](https://bgjar.com)
 * [Fake Person Generator](https://www.fakepersongenerator.com)
 * [Pattern Generator 2](https://tabbied.com)
@@ -121,6 +127,8 @@ Updated: 23-5-2021
 * [Transform Tools: HTML to JSX](https://transform.tools/html-to-jsx)
 
 ## Icons
+* [Icons manager software](https://iconset.io)
+* [Free SVG Icons list](https://iconset.io/icons)
 * [Animated Icons](https://icons8.com/animated-icons)
 * [Animated SVG Icons](https://getloaf.io)
 * [Basicons](https://basicons.xyz)
