@@ -1,5 +1,5 @@
 # Resources
-Updated: 23-5-2021
+Updated: 18-12-2021
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
