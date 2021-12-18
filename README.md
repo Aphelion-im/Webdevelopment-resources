@@ -16,9 +16,10 @@ Updated: 18-12-2021
 * [Javascript event keycodes 2](https://keyjs.dev)
 * [Javascript event keycodes](https://keycode.info)
 * [Taskade - All-in-one-collaboration](https://www.taskade.com)
+* [Tile tester: Seamless background images tester](https://tile.toyls.com)
 * [Video ripper, editor, video recorder, etc. (Recommended!)](https://www.videoproc.com) 
 * [Visual Studio Code](https://code.visualstudio.com)
-* [Tile tester: Seamless background images tester](https://tile.toyls.com)
+
 
 
 ## API's
@@ -46,7 +47,7 @@ Updated: 18-12-2021
 
 ## Colors 
 * [Adobe Color](https://color.adobe.com/nl/create/color-wheel)
-* [Paletton.com](https://paletton.com)
+* [Color picker, converter, calculator and generator with high precision and contrast test.](http://colorizer.org)
 * [Material Design color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 * [All in one resource for finding everything about colors](https://colorsinspo.com)
 * [Color Mind - Smart Image Color Extraction](http://colormind.io/image/)
@@ -54,10 +55,12 @@ Updated: 18-12-2021
 * [Color Palettes Generator](https://mycolor.space)
 * [Color Picker](https://htmlcolorcodes.com/color-picker/)
 * [Coolors - The super fast color schemes generator!](https://coolors.co)
-* [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
-* [The Best Free Color Tools](https://hexcolor.co)
 * [Flat UI colors](https://flatuicolors.com)
-* [Color picker, converter, calculator and generator with high precision and contrast test.](http://colorizer.org)
+* [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
+* [Hexcolor - The Best Free Color Tools](https://hexcolor.co)
+* [Paletton.com](https://paletton.com)
+
+
 
 
 ## Create Images From Your Source Code
@@ -127,21 +130,28 @@ Updated: 18-12-2021
 * [Transform Tools: HTML to JSX](https://transform.tools/html-to-jsx)
 
 ## Icons
-* [Icons manager software](https://iconset.io)
-* [Free SVG Icons list](https://iconset.io/icons)
+* [70 social icons](https://iconset.io/set/70-social-icons)
 * [Animated Icons](https://icons8.com/animated-icons)
 * [Animated SVG Icons](https://getloaf.io)
 * [Basicons](https://basicons.xyz)
+* [Essentials icons set](Essential Icons Set)
+* [Eva Icons](https://akveo.github.io/eva-icons/#/)
+* [Feather icon pack](https://iconset.io/set/feather)
 * [Flaticon](https://www.flaticon.com)
 * [Font Awesome](https://fontawesome.com)
+* [Free SVG Icons list](https://iconset.io/icons)
 * [Glyphicons](https://glyphicons.com)
-* [Google/Material Icons](https://fonts.google.com/icons)
+* [Google Material Icons](https://fonts.google.com/icons)
+* [Icons manager software](https://iconset.io)
 * [Iconmonstr](https://iconmonstr.com)
+* [Invision Essentials](https://iconset.io/set/invision-essentials)
 * [Line Icons](https://lineicons.com)
+* [MacOS cursors](https://iconset.io/set/macos-cursors)
 * [Phospor Icons](https://phosphoricons.com)
 * [Radix Icons](https://icons.modulz.app)
 * [SVG Icons](https://www.iconshock.com/svg-icons/)
 * [Tabler Icons](https://tablericons.com)
+* [Themify Icons Pack](https://iconset.io/set/themify-icons)
 * [Unicons](https://iconscout.com/unicons)
 
 
