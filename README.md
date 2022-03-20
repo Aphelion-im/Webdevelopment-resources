@@ -171,6 +171,10 @@ Updated: 13-3-2022
 * [Lorem Picsum](https://picsum.photos)
 * [Placeholder Images](https://placeholder.com)
 
+## Mindmapping
+* [Coggle](https://coggle.it)
+* [Miro - Visual collaboration](https://miro.com)
+* [Wisemapping - Free Online Mind Mapping](https://www.wisemapping.com)
 
 ## Particles
 * [Particles JS](https://vincentgarreau.com/particles.js/)
