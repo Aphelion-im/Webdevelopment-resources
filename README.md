@@ -1,5 +1,5 @@
 # Resources
-Updated: 13-3-2022
+Updated: 20-3-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -134,7 +134,7 @@ Updated: 13-3-2022
 * [Animated Icons](https://icons8.com/animated-icons)
 * [Animated SVG Icons](https://getloaf.io)
 * [Basicons](https://basicons.xyz)
-* [Essentials icons set](Essential Icons Set)
+* [Essentials icons set](https://iconset.io/set/essential-icons)
 * [Eva Icons](https://akveo.github.io/eva-icons/#/)
 * [Feather icon pack](https://iconset.io/set/feather)
 * [Flaticon](https://www.flaticon.com)
@@ -142,7 +142,7 @@ Updated: 13-3-2022
 * [Free SVG Icons list](https://iconset.io/icons)
 * [Glyphicons](https://glyphicons.com)
 * [Google Material Icons](https://fonts.google.com/icons)
-* [Icons manager software](https://iconset.io)
+* [Icons orgainizer & manager](https://iconset.io)
 * [Iconmonstr](https://iconmonstr.com)
 * [Invision Essentials](https://iconset.io/set/invision-essentials)
 * [Line Icons](https://lineicons.com)
