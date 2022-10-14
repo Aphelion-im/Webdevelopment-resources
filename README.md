@@ -1,5 +1,5 @@
 # Resources
-Updated: 26-3-2022
+Updated: 14-10-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -82,6 +82,7 @@ Updated: 26-3-2022
 
 ## Fonts
 * [Cufon Fonts](https://www.cufonfonts.com)
+* [FontBase (Font manager)](https://fontba.se)
 * [Font Squirrel](https://www.fontsquirrel.com)
 * [Google Fonts](https://fonts.google.com)
 * [Public Sans](https://public-sans.digital.gov)
@@ -159,10 +160,12 @@ Updated: 26-3-2022
 
 ## Image Compression & Remove Image Meta/Exif Data
 * [Check and remove Exif data](https://www.verexif.com/en/)
+* [Compress MP4, MOV, MP3, PDF, PNG, JPG, JPEG, GIF files](https://www.youcompress.com)
 * [JPG Optimizer](http://www.jpeg-optimizer.com)
 * [Optimizilla](https://imagecompressor.com)
 * [Tiny JPG](https://tinyjpg.com)
 * [Tiny PNG](https://tinypng.com)
+
 
 ## JSON
 * [JSON formatter and validator](https://jsonformatter.curiousconcept.com)
@@ -218,8 +221,10 @@ Updated: 26-3-2022
 * [Custom Shape Dividers](https://www.shapedivider.app)
 * [Generate blobs](https://blobs.app)
 * [Get Waves](https://getwaves.io)
+* [HeroPatterns - Repeatable SVG background patterns](https://heropatterns.com)
 * [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
 * [SVG Waves](https://www.svgwaves.io)
+* [Undraw- Open Source Illustrations)](https://undraw.co)
 
 ## Visual Studio Code Extensions
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
