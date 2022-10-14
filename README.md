@@ -224,7 +224,7 @@ Updated: 14-10-2022
 * [HeroPatterns - Repeatable SVG background patterns](https://heropatterns.com)
 * [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
 * [SVG Waves](https://www.svgwaves.io)
-* [Undraw- Open Source Illustrations)](https://undraw.co)
+* [Undraw- Open Source Illustrations](https://undraw.co)
 
 ## Visual Studio Code Extensions
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
