@@ -82,7 +82,7 @@ Updated: 21-10-2022
 ## Developer Roadmaps
 * [Developer Roadmaps](https://roadmap.sh)
 
-** Favicons
+## Favicons
 * [Real Favicon Generator](https://realfavicongenerator.net)
 * [Google S2 Favicon Grabber](https://s2.googleusercontent.com/s2/favicons?domain=www.nasa.gov)
 
@@ -194,7 +194,7 @@ Updated: 21-10-2022
 ## Libraries
 * [Confetti.js](https://www.cssscript.com/confetti-falling-animation/)
 * [GSAP - Greensock](https://greensock.com/gsap/)
-
+* [Particles JS](https://vincentgarreau.com/particles.js/)
 
 
 ## Lorem Ipsum & Image Placeholders
@@ -206,8 +206,6 @@ Updated: 21-10-2022
 * [Miro - Visual collaboration](https://miro.com)
 * [Wisemapping - Free Online Mind Mapping](https://www.wisemapping.com)
 
-## Particles
-* [Particles JS](https://vincentgarreau.com/particles.js/)
 
 ## Patterns 
 * [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
@@ -224,7 +222,7 @@ Updated: 21-10-2022
 * [Pixlr - Online Photoshop](https://pixlr.com/nl/e/#editor)
 
 ## Productivity
-* [Team Project Management](https://trello.com)
+* [Trello - Team Project Management](https://trello.com)
 
 ## RegEx
 * [RegEx 101](https://regex101.com)
@@ -234,9 +232,6 @@ Updated: 21-10-2022
 * [Every Size](https://everysize.kibalabs.com)
 * [Responsively](https://responsively.app)
 
-## Resume Builder
-* [Free Online Resume Builder and Resume Templates](https://flowcv.io)
-* [Resume Editor and Resume Templates](https://app.enhancv.com/resume/new)
 
 ## Stock
 * [Freepik](http://www.freepik.com)
@@ -294,34 +289,6 @@ Updated: 21-10-2022
 
 ## Website Uptime Monitoring
 * [Uptime Robot - Uptime Monitoring Service](https://uptimerobot.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
