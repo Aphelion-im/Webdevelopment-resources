@@ -1,5 +1,5 @@
 # Resources
-Updated: 14-10-2022
+Updated: 21-10-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -10,15 +10,12 @@ Updated: 14-10-2022
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
 * [Ebooks library (Recommended!)](https://1lib.nl)
 * [EStimator - Check how much JS your website ships](https://estimator.dev)
-* [Favicon generator](https://realfavicongenerator.net)
 * [Glassmorphism](https://glassmorphism.com)
 * [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
-* [Javascript event keycodes 2](https://keyjs.dev)
-* [Javascript event keycodes](https://keycode.info)
 * [Taskade - All-in-one-collaboration](https://www.taskade.com)
 * [Tile tester: Seamless background images tester](https://tile.toyls.com)
 * [Video ripper, editor, video recorder, etc. (Recommended!)](https://www.videoproc.com) 
-* [Visual Studio Code](https://code.visualstudio.com)
+
 
 
 
@@ -31,6 +28,7 @@ Updated: 14-10-2022
 * [Generate Unique Images from Any Text](https://robohash.org)
 * [Illustrated Avatar Collection](https://joeschmoe.io) 
 * [JSON Placeholder - Free Fake Rest API](https://jsonplaceholder.typicode.com)
+* [NASA Api](https://api.nasa.gov)
 * [Numbers API](http://numbersapi.com/#42)
 * [PokéAPI](https://pokeapi.co)
 * [Postman - API development](https://www.postman.com)
@@ -41,6 +39,10 @@ Updated: 14-10-2022
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
 * [Superhero API](https://superheroapi.com/index.html)
 * [SWAPI - The Star Wars API](https://swapi.py4e.com)
+
+## Blogging for Techies
+* [Hashnode](https://hashnode.com)
+
 
 ## Chrome Extensions
 * [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
@@ -80,10 +82,16 @@ Updated: 14-10-2022
 ## Developer Roadmaps
 * [Developer Roadmaps](https://roadmap.sh)
 
+** Favicons
+* [Real Favicon Generator](https://realfavicongenerator.net)
+* [Google S2 Favicon Grabber](https://s2.googleusercontent.com/s2/favicons?domain=www.nasa.gov)
+
+
 ## Fonts
 * [Cufon Fonts](https://www.cufonfonts.com)
+* [Dafont](https://dafont.com)
 * [FontBase (Font manager)](https://fontba.se)
-* [Font Squirrel](https://www.fontsquirrel.com)
+* [Font Squirrel - Webfont Generator](https://www.fontsquirrel.com)
 * [Google Fonts](https://fonts.google.com)
 * [Public Sans](https://public-sans.digital.gov)
 
@@ -129,6 +137,13 @@ Updated: 14-10-2022
 * [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
 
+## Hosting (Free)
+* [DigitalOcean (3 free static sites)]()
+* [Github Pages](https://pages.github.com)
+* [Heroku](https://www.heroku.com)
+* [Netlify](https://www.netlify.com)
+
+
 ## HTML TO JSX
 * [Transform Tools: HTML to JSX](https://transform.tools/html-to-jsx)
 
@@ -166,11 +181,21 @@ Updated: 14-10-2022
 * [Tiny JPG](https://tinyjpg.com)
 * [Tiny PNG](https://tinypng.com)
 
+## JavaScript
+* [Babel.js - JavaScript Compiler](https://babeljs.io)
+* [Javascript event keycodes 2](https://keyjs.dev)
+* [Javascript event keycodes](https://keycode.info)
 
 ## JSON
 * [JSON formatter and validator](https://jsonformatter.curiousconcept.com)
 * [JSON Linter](https://jsonlint.com)
 * [JSONView - Chrome extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+
+## Libraries
+* [Confetti.js](https://www.cssscript.com/confetti-falling-animation/)
+* [GSAP - Greensock](https://greensock.com/gsap/)
+
+
 
 ## Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
@@ -198,6 +223,9 @@ Updated: 14-10-2022
 * [Photopea](https://www.photopea.com)
 * [Pixlr - Online Photoshop](https://pixlr.com/nl/e/#editor)
 
+## Productivity
+* [Team Project Management](https://trello.com)
+
 ## RegEx
 * [RegEx 101](https://regex101.com)
 * [Regexr](https://regexr.com)
@@ -220,11 +248,16 @@ Updated: 14-10-2022
 ## SVG
 * [Custom Shape Dividers](https://www.shapedivider.app)
 * [Generate blobs](https://blobs.app)
+* [Get Loaf - Animated SVG](https://getloaf.io)
 * [Get Waves](https://getwaves.io)
 * [HeroPatterns - Repeatable SVG background patterns](https://heropatterns.com)
 * [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
 * [SVG Waves](https://www.svgwaves.io)
 * [Undraw- Open Source Illustrations](https://undraw.co)
+
+## Testing
+* [Browserstack](https://www.browserstack.com)
+* [Headspin](https://www.headspin.io)
 
 ## Visual Studio Code Extensions
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
