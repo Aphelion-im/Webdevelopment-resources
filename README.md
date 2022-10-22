@@ -1,5 +1,5 @@
 # Resources
-Updated: 21-10-2022
+Updated: 22-10-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -39,6 +39,8 @@ Updated: 21-10-2022
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
 * [Superhero API](https://superheroapi.com/index.html)
 * [SWAPI - The Star Wars API](https://swapi.py4e.com)
+* [Text-to-speech API](https://www.voicerss.org/api/)
+* [Zen Quotes](https://zenquotes.io )
 
 ## Blogging for Techies
 * [Hashnode](https://hashnode.com)
@@ -192,6 +194,7 @@ Updated: 21-10-2022
 * [JSONView - Chrome extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 
 ## Libraries
+* [Animate On Scroll library](https://michalsnik.github.io/aos/)
 * [Confetti.js](https://www.cssscript.com/confetti-falling-animation/)
 * [GSAP - Greensock](https://greensock.com/gsap/)
 * [Particles JS](https://vincentgarreau.com/particles.js/)
