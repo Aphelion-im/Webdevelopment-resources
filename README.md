@@ -1,5 +1,5 @@
 # Resources
-Updated: 22-10-2022
+Updated: 27-10-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -197,6 +197,7 @@ Updated: 22-10-2022
 * [Animate On Scroll library](https://michalsnik.github.io/aos/)
 * [Confetti.js](https://www.cssscript.com/confetti-falling-animation/)
 * [GSAP - Greensock](https://greensock.com/gsap/)
+* [JavaScript Color Input Library](https://jscolor.com)
 * [Particles JS](https://vincentgarreau.com/particles.js/)
 
 
