@@ -1,5 +1,5 @@
 # Resources
-Updated: 27-10-2022
+Updated: 29-10-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -205,8 +205,9 @@ Updated: 27-10-2022
 * [Lorem Picsum](https://picsum.photos)
 * [Placeholder Images](https://placeholder.com)
 
-## Mindmapping
+## Mindmapping & Diagrams
 * [Coggle](https://coggle.it)
+* [Diagrams.net - Diagram Software and Flowchart Maker](https://www.diagrams.net)
 * [Miro - Visual collaboration](https://miro.com)
 * [Wisemapping - Free Online Mind Mapping](https://www.wisemapping.com)
 
