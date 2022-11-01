@@ -1,5 +1,5 @@
 # Resources
-Updated: 29-10-2022
+Updated: 1-11-2022
 
 ## Miscellaneous
 * [Another, bigger, resources list](https://free-for.dev/#/)
@@ -267,6 +267,7 @@ Updated: 29-10-2022
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
+* [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
