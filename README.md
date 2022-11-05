@@ -1,23 +1,5 @@
 # Resources
-Updated: 5-11-2022
-
-## Miscellaneous
-* [Another, bigger, resources list](https://free-for.dev/#/)
-* [CDNJS](https://cdnjs.com)
-* [Chatrooms to share files](https://blaze.vercel.app/app)
-* [Choose a License](https://choosealicense.com)
-* [Create beautiful images of your code](https://ray.so)
-* [Create Your Own VS Code Themes](https://themes.vscode.one)
-* [Ebooks library (Recommended!)](https://1lib.nl)
-* [EStimator - Check how much JS your website ships](https://estimator.dev)
-* [Glassmorphism](https://glassmorphism.com)
-* [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
-* [Taskade - All-in-one-collaboration](https://www.taskade.com)
-* [Tile tester: Seamless background images tester](https://tile.toyls.com)
-* [Video ripper, editor, video recorder, etc. (Recommended!)](https://www.videoproc.com) 
-
-
-
+Updated: 6-11-2022
 
 ## API's
 * [DevDocs API Documentation](https://devdocs.io)
@@ -44,6 +26,9 @@ Updated: 5-11-2022
 
 ## Blogging for Techies
 * [Hashnode](https://hashnode.com)
+
+## CDN
+* [CDNJS](https://cdnjs.com)
 
 
 ## Chrome Extensions
@@ -211,6 +196,18 @@ Updated: 5-11-2022
 * [Miro - Visual collaboration](https://miro.com)
 * [Wisemapping - Free Online Mind Mapping](https://www.wisemapping.com)
 
+## Miscellaneous
+* [Another, bigger, resources list](https://free-for.dev/#/)
+* [Chatrooms to share files](https://blaze.vercel.app/app)
+* [Choose a License](https://choosealicense.com)
+* [Create beautiful images of your code](https://ray.so)
+* [Ebooks library (Recommended!)](https://1lib.nl)
+* [EStimator - Check how much JS your website ships](https://estimator.dev)
+* [Glassmorphism](https://glassmorphism.com)
+* [HTML & CSS validator](https://validator.w3.org/nu/#textarea)
+* [Taskade - All-in-one-collaboration](https://www.taskade.com)
+* [Tile tester: Seamless background images tester](https://tile.toyls.com)
+* [Video ripper, editor, video recorder, etc. (Recommended!)](https://www.videoproc.com) 
 
 ## Patterns 
 * [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
@@ -264,7 +261,6 @@ Updated: 5-11-2022
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlightgit)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
-* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
 * [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
@@ -277,13 +273,13 @@ Updated: 5-11-2022
 * [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-* [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 * [Thunder client - Rest API client for VS Code, lightweight Postman alternative](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ## Visual Studio Code Themes
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
 * [VS Code Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
 * [VS Code Themes](https://vscodethemes.com)
+
 
 ## Website Speed Test
 * [Fast or Slow](https://www.fastorslow.com/app)
