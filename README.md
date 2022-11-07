@@ -26,6 +26,7 @@ Updated: 7-11-2022
 * [Public API's](https://public-apis.io)
 * [Punk API](https://punkapi.com)
 * [Random User](https://randomuser.me)
+* [RapidAPI Hub- Discover and connect to thousands of APIs](https://rapidapi.com)
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
 * [Superhero API](https://superheroapi.com/index.html)
 * [SWAPI - The Star Wars API](https://swapi.py4e.com)
