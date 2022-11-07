@@ -3,7 +3,7 @@ Updated: 7-11-2022
 
 ## Other Resource Lists
 * [Another, bigger, resources list](https://free-for.dev/#/)
-* [Dr.Angela Yu Resources List](https://www.appbrewery.co/p/web-development-course-resources/)
+* [Dr. Angela Yu Resources List](https://www.appbrewery.co/p/web-development-course-resources/)
 * [Jonas Schmedtmann Resources List](https://codingheroes.io/resources/)
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
 
