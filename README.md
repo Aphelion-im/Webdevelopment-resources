@@ -1,5 +1,13 @@
 # Resources
-Updated: 6-11-2022
+Updated: 7-11-2022
+
+## Other Resource Lists
+* [Another, bigger, resources list](https://free-for.dev/#/)
+* [Dr.Angela Yu Resources List](https://www.appbrewery.co/p/web-development-course-resources/)
+* [Jonas Schmedtmann Resources List](https://codingheroes.io/resources/)
+* [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
+
+
 
 ## API's
 * [DevDocs API Documentation](https://devdocs.io)
@@ -127,8 +135,8 @@ Updated: 6-11-2022
 ## Hosting (Free)
 * [DigitalOcean (3 free static sites)]()
 * [Github Pages](https://pages.github.com)
-* [Heroku](https://www.heroku.com)
 * [Netlify](https://www.netlify.com)
+* [Vercel](https://vercel.com)
 
 
 ## HTML TO JSX
@@ -193,11 +201,11 @@ Updated: 6-11-2022
 ## Mindmapping & Diagrams
 * [Coggle](https://coggle.it)
 * [Diagrams.net - Diagram Software and Flowchart Maker](https://www.diagrams.net)
+* [Excalidraw](https://excalidraw.com)
 * [Miro - Visual collaboration](https://miro.com)
 * [Wisemapping - Free Online Mind Mapping](https://www.wisemapping.com)
 
 ## Miscellaneous
-* [Another, bigger, resources list](https://free-for.dev/#/)
 * [Chatrooms to share files](https://blaze.vercel.app/app)
 * [Choose a License](https://choosealicense.com)
 * [Create beautiful images of your code](https://ray.so)
