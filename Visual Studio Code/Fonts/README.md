@@ -1,5 +1,5 @@
 # Source Fonts
-Updated: 25-2-2021
+Updated: 4-12-2022
 
 ## Visual Studio Code Code Fonts With Ligatures
 * [Github Repository - Fira Code font](https://github.com/tonsky/FiraCode)
@@ -8,3 +8,8 @@ Updated: 25-2-2021
 
 ## Visual Studio Code Editor Font-family Settings
 * 'Consolas ligaturized v2', 'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace
+
+## Zero To Mastery Editor Setup (Cursive fonts in some cases)
+* 'Operator Mono Lig', 'Consolas ligaturized v2', 'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace
+* Install Visual Studio Code theme: Snazzy [Snazzy Operator Theme](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator)
+* In Visual Studio Code enable Font Ligatures
