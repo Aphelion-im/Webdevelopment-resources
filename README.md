@@ -271,7 +271,7 @@ Updated: 17-3-2023
 ## Visual Studio Code Extensions
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
-* [Auto Rename Tag (Linked editing with VSCode somehow does not work for me)](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Auto Rename Tag (Linked editing within VSCode somehow does not work for me)](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlightgit)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
