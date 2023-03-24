@@ -1,5 +1,5 @@
 # Resources
-Updated: 17-3-2023
+Updated: 24-3-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -20,8 +20,11 @@ Updated: 17-3-2023
 * [Generate Unique Images from Any Text](https://robohash.org)
 * [Illustrated Avatar Collection](https://joeschmoe.io) 
 * [JSON Placeholder - Free Fake Rest API](https://jsonplaceholder.typicode.com)
+* [Marvel Developer Portal](https://developer.marvel.com)
 * [NASA Api](https://api.nasa.gov)
 * [Numbers API](http://numbersapi.com/#42)
+* [The Movie DB](https://developers.themoviedb.org/3/getting-started/images)
+* [The Open Movie Database API](https://www.omdbapi.com)
 * [PokéAPI](https://pokeapi.co)
 * [Postman - API development](https://www.postman.com)
 * [Public API's 2](https://public-apis.xyz)
@@ -29,6 +32,7 @@ Updated: 17-3-2023
 * [Punk API](https://punkapi.com)
 * [Random User](https://randomuser.me)
 * [RapidAPI Hub- Discover and connect to thousands of APIs](https://rapidapi.com)
+* [REST Countries](https://restcountries.com)
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
 * [Superhero API](https://superheroapi.com/index.html)
 * [SWAPI - The Star Wars API](https://swapi.py4e.com)
