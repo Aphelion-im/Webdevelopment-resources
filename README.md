@@ -1,5 +1,5 @@
 # Resources
-Updated: 24-3-2023
+Updated: 1-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -12,6 +12,7 @@ Updated: 24-3-2023
 
 
 ## API's
+* [Public APIs - A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
 * [DevDocs API Documentation](https://devdocs.io)
 * [API List: A public list of free API's](https://apilist.fun)
 * [Chuck Norris Jokes API](https://api.chucknorris.io)
