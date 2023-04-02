@@ -1,5 +1,5 @@
 # Resources
-Updated: 1-4-2023
+Updated: 2-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -21,6 +21,7 @@ Updated: 1-4-2023
 * [Generate Unique Images from Any Text](https://robohash.org)
 * [Illustrated Avatar Collection](https://joeschmoe.io) 
 * [JSON Placeholder - Free Fake Rest API](https://jsonplaceholder.typicode.com)
+* [JSON Placeholder - Free Fake Rest API - Backup Server 2](https://jsonplaceholder.cypress.io)
 * [Marvel Developer Portal](https://developer.marvel.com)
 * [NASA Api](https://api.nasa.gov)
 * [Numbers API](http://numbersapi.com/#42)
