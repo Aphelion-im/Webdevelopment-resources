@@ -77,10 +77,6 @@ Updated: 2-4-2023
 * [Create and share beautiful images of your source code](https://carbon.now.sh)
 
 
-## CSS Grid
-* [CSS Grid Garden](https://cssgridgarden.com)
-* [Grid Cheatsheet](https://grid.malven.co)
-
 ## Database
 * [EasyDB - A one-click database. No server required](https://easydb.io)
 
@@ -137,10 +133,20 @@ Updated: 2-4-2023
 ## Git & Github
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [Git Explorer](https://gitexplorer.com)
+* [Gitignore.io - Create useful .gitignore files for your project](https://www.toptal.com/developers/gitignore/)
 * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 * [GitHub Readme Streak Stats Demo](https://github-readme-streak-stats.herokuapp.com/demo/)
 * [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
+
+## Gradients
+* [CSS Gradient Generator](https://cssgradient.io)
+
+
+## Grid
+* [CSS Grid Garden](https://cssgridgarden.com)
+* [Grid Cheatsheet](https://grid.malven.co)
+
 
 ## Hosting (Free)
 * [DigitalOcean (3 free static sites)]()
