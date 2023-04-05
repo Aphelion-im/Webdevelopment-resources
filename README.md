@@ -50,6 +50,7 @@ Updated: 2-4-2023
 
 ## Chrome Extensions
 * [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+* [Markdown Here](https://markdown-here.com/index.html)
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
@@ -139,11 +140,11 @@ Updated: 2-4-2023
 * [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
 
-## Gradients
+## Gradients (CSS)
 * [CSS Gradient Generator](https://cssgradient.io)
 
 
-## Grid
+## Grid (CSS)
 * [CSS Grid Garden](https://cssgridgarden.com)
 * [Grid Cheatsheet](https://grid.malven.co)
 
@@ -303,8 +304,9 @@ Updated: 2-4-2023
 
 ## Visual Studio Code Themes
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
-* [VS Code Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
-* [VS Code Themes](https://vscodethemes.com)
+* [VSCode Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
+* [VSCode Themes](https://vscodethemes.com)
+* [VSCode Theme Tester](https://marketplace.visualstudio.com/items?itemName=ms-vscode.theme-tester)
 
 
 ## Website Speed Test
