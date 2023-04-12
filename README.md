@@ -1,5 +1,5 @@
 # Resources
-Updated: 5-4-2023
+Updated: 12-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -183,6 +183,7 @@ Updated: 5-4-2023
 * [Tabler Icons](https://tablericons.com)
 * [Themify Icons Pack](https://iconset.io/set/themify-icons)
 * [Unicons](https://iconscout.com/unicons)
+* [Zondicons](https://www.zondicons.com)
 
 
 ## Image Compression & Remove Image Meta/Exif Data
