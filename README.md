@@ -36,6 +36,7 @@ Updated: 14-4-2023
 * [Random User](https://randomuser.me)
 * [RapidAPI Hub- Discover and connect to thousands of APIs](https://rapidapi.com)
 * [REST Countries](https://restcountries.com)
+* [Spoonacular recipe and food API](https://spoonacular.com/food-api)
 * [Sheety - Turn your Google Sheet Into An API](https://sheety.co)
 * [Superhero API](https://superheroapi.com/index.html)
 * [SWAPI - The Star Wars API](https://swapi.py4e.com)
