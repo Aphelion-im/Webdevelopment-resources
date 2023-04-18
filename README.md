@@ -1,5 +1,5 @@
 # Resources
-Updated: 15-4-2023
+Updated: 18-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -8,7 +8,9 @@ Updated: 15-4-2023
 * [Jonas Schmedtmann Resources List](https://codingheroes.io/resources/)
 * [Kevin Powell Resources List](https://www.kevinpowell.co/resources/)
 
-
+## A.I.
+* [DeepAI](https://deepai.org)
+* [PatternedAI - Generate unique patterns for your product using AI](https://www.patterned.ai)
 
 
 ## API's
