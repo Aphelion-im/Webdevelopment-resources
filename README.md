@@ -1,5 +1,5 @@
 # Resources
-Updated: 18-4-2023
+Updated: 20-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -11,6 +11,7 @@ Updated: 18-4-2023
 ## A.I.
 * [DeepAI](https://deepai.org)
 * [PatternedAI - Generate unique patterns for your product using AI](https://www.patterned.ai)
+* [Stable Diffusion Online - Generate photo-realistic images given any text input](https://stablediffusionweb.com)
 
 
 ## API's
