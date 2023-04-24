@@ -1,5 +1,5 @@
 # Resources
-Updated: 20-4-2023
+Updated: 24-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -8,7 +8,8 @@ Updated: 20-4-2023
 * [Jonas Schmedtmann Resources List](https://codingheroes.io/resources/)
 * [Kevin Powell Resources List](https://www.kevinpowell.co/resources/)
 
-## A.I.
+## A.I. Art Generators
+* [Bing Image Creator A.I. - Powered by Dall-E](https://www.bing.com/images/create)
 * [DeepAI](https://deepai.org)
 * [PatternedAI - Generate unique patterns for your product using AI](https://www.patterned.ai)
 * [Stable Diffusion Online - Generate photo-realistic images given any text input](https://stablediffusionweb.com)
@@ -291,7 +292,6 @@ Updated: 20-4-2023
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [Auto Rename Tag (Linked editing within VSCode somehow does not work for me)](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlightgit)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
