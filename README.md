@@ -1,5 +1,5 @@
 # Resources
-Updated: 24-4-2023
+Updated: 28-4-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -8,12 +8,14 @@ Updated: 24-4-2023
 * [Jonas Schmedtmann Resources List](https://codingheroes.io/resources/)
 * [Kevin Powell Resources List](https://www.kevinpowell.co/resources/)
 
-## A.I. Art Generators
+## A.I. - Art Generators
 * [Bing Image Creator A.I. - Powered by Dall-E](https://www.bing.com/images/create)
 * [DeepAI](https://deepai.org)
 * [PatternedAI - Generate unique patterns for your product using AI](https://www.patterned.ai)
 * [Stable Diffusion Online - Generate photo-realistic images given any text input](https://stablediffusionweb.com)
 
+## A.I. - Tools
+* [Github Copilot](https://github.com/features/copilot)
 
 ## API's
 * [Public APIs - A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
