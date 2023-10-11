@@ -1,5 +1,5 @@
 # Resources
-Updated: 28-4-2023
+Updated: 11-10-2023
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -299,6 +299,7 @@ Updated: 28-4-2023
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
 * [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+* [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -309,6 +310,13 @@ Updated: 28-4-2023
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 * [Thunder client - Rest API client for VS Code, lightweight Postman alternative](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+## Visual Studio Code Java & Spring Boot Extensions
+* [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+* [Extension pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+* [Java Code Generators](https://marketplace.visualstudio.com/items?itemName=sohibe.java-generate-setters-getters)
+* [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+* [Spring Boot Tools](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot)
 
 ## Visual Studio Code Themes
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
