@@ -158,6 +158,7 @@ Updated: 24-10-2023
 
 
 ## Hosting (Free)
+* [Cloudflare Pages](https://pages.cloudflare.com)
 * [DigitalOcean (3 free static sites)]()
 * [Github Pages](https://pages.github.com)
 * [Netlify](https://www.netlify.com)
