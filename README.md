@@ -1,5 +1,5 @@
 # Resources
-Updated: 24-10-2023
+Updated: 14-2-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
