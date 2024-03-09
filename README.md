@@ -1,5 +1,5 @@
 # Resources
-Updated: 23-2-2024
+Updated: 9-3-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -220,6 +220,8 @@ Updated: 23-2-2024
 * [JavaScript Color Input Library](https://jscolor.com)
 * [Particles JS](https://vincentgarreau.com/particles.js/)
 
+## Local Web Development
+* [MAMP](https://www.mamp.info/en/downloads/)
 
 ## Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
