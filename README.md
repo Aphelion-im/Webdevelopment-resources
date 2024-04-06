@@ -1,5 +1,5 @@
 # Resources
-Updated: 9-3-2024
+Updated: 6-4-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -89,6 +89,9 @@ Updated: 9-3-2024
 ## Database
 * [EasyDB - A one-click database. No server required](https://easydb.io)
 
+## Design
+[Realtime Colors - Visualize Your Colors & Fonts On a Real Site](https://www.realtimecolors.com)
+
 ## Developer Roadmaps
 * [Developer Roadmaps](https://roadmap.sh)
 
@@ -147,6 +150,9 @@ Updated: 9-3-2024
 * [GitHub Readme Streak Stats Demo](https://github-readme-streak-stats.herokuapp.com/demo/)
 * [How to Contribute to an Open Source Project on GitHub (Video)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * [Learn Git Branching](https://learngitbranching.js.org)
+* [Profileme.dev - Create an amazing GitHub profile in minutes](https://www.profileme.dev)
+* [Shields.io - Concise, consistent, and legible badges](https://shields.io)
+
 
 ## Gradients (CSS)
 * [CSS Gradient Generator](https://cssgradient.io)
@@ -188,6 +194,9 @@ Updated: 9-3-2024
 * [MacOS cursors](https://iconset.io/set/macos-cursors)
 * [Phospor Icons](https://phosphoricons.com)
 * [Radix Icons](https://icons.modulz.app)
+* [React Icons](https://react-icons.github.io/react-icons/)
+* [Simple Icons - 3102+ Free SVG icons for popular brands](https://simpleicons.org)
+* [Skill Icons - Showcase your skills on your GitHub or resumé with ease!](https://skillicons.dev)
 * [SVG Icons](https://www.iconshock.com/svg-icons/)
 * [Tabler Icons](https://tablericons.com)
 * [Themify Icons Pack](https://iconset.io/set/themify-icons)
@@ -225,6 +234,7 @@ Updated: 9-3-2024
 
 ## Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
+* [Logo Ipsum](https://logoipsum.com)
 * [Placeholder Images](https://placeholder.com)
 
 ## Mindmapping & Diagrams
@@ -298,6 +308,7 @@ Updated: 9-3-2024
 * [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import)
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [Auto Rename Tag (Linked editing within VSCode somehow does not work for me)](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Codesnap - Take beautiful screenshots of your code](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
@@ -309,7 +320,7 @@ Updated: 9-3-2024
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [Peacock - Subtly change the workspace color ](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-* [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+* [Polacode - Polaroid for your code](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 * [Thunder client - Rest API client for VS Code, lightweight Postman alternative](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
