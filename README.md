@@ -1,5 +1,5 @@
 # Resources
-Updated: 6-4-2024
+Updated: 8-4-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -323,6 +323,7 @@ Updated: 6-4-2024
 * [Polacode - Polaroid for your code](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+* [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 * [Thunder client - Rest API client for VS Code, lightweight Postman alternative](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
