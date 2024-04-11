@@ -1,5 +1,5 @@
 # Resources
-Updated: 11-4-2024
+Updated: 12-4-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -309,8 +309,11 @@ Updated: 11-4-2024
 * [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import)
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [Auto Rename Tag (Linked editing within VSCode somehow does not work for me)](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)
+* [Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
 * [Codesnap - Take beautiful screenshots of your code](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
+* [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Gitignore](https://marketplace.visualstudio.com/items?itemName=michelemelluso.gitignore)
 * [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
@@ -338,6 +341,7 @@ Updated: 11-4-2024
 ## Visual Studio Code Themes
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
 * [Rainglow - 320+ syntax and UI themes](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+* [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 * [VSCode Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
 * [VSCode Themes](https://vscodethemes.com)
 * [VSCode Theme Tester](https://marketplace.visualstudio.com/items?itemName=ms-vscode.theme-tester)
