@@ -1,5 +1,5 @@
 # Resources
-Updated: 8-4-2024
+Updated: 11-4-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -11,10 +11,12 @@ Updated: 8-4-2024
 ## A.I. - Art Generators
 * [Bing Image Creator A.I. - Powered by Dall-E](https://www.bing.com/images/create)
 * [DeepAI](https://deepai.org)
+* [Leonardo A.I.](https://leonardo.ai)
 * [PatternedAI - Generate unique patterns for your product using AI](https://www.patterned.ai)
 * [Stable Diffusion Online - Generate photo-realistic images given any text input](https://stablediffusionweb.com)
 
 ## A.I. - Tools
+* [Codeium - Free A.I. code completion and chat](https://codeium.com)
 * [Github Copilot](https://github.com/features/copilot)
 
 ## API's
@@ -59,6 +61,7 @@ Updated: 8-4-2024
 ## Chrome Extensions
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related)
 * [Markdown Here](https://markdown-here.com/index.html)
+* [PerfectPixel - Start developing websites with per-pixel accuracy!](https://www.welldonecode.com/perfectpixel/)
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
@@ -77,8 +80,6 @@ Updated: 8-4-2024
 * [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
 * [Hexcolor - The Best Free Color Tools](https://hexcolor.co)
 * [Paletton.com](https://paletton.com)
-
-
 
 
 ## Create Images From Your Source Code
@@ -336,6 +337,7 @@ Updated: 8-4-2024
 
 ## Visual Studio Code Themes
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
+* [Rainglow - 320+ syntax and UI themes](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 * [VSCode Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
 * [VSCode Themes](https://vscodethemes.com)
 * [VSCode Theme Tester](https://marketplace.visualstudio.com/items?itemName=ms-vscode.theme-tester)
