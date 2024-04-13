@@ -1,5 +1,5 @@
 # Resources
-Updated: 13-4-2024
+Updated: 14-4-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -325,7 +325,7 @@ Updated: 13-4-2024
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [Peacock - Subtly change the workspace color ](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-* [Polacode - Polaroid for your code](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+* [Polacode-2022 - Polaroid for your code](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
