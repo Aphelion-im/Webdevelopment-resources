@@ -343,6 +343,7 @@ Updated: 13-4-2024
 * [Create Your Own VS Code Themes](https://themes.vscode.one)
 * [Rainglow - 320+ syntax and UI themes](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 * [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+* [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * [VSCode Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
 * [VSCode Themes](https://vscodethemes.com)
 * [VSCode Theme Tester](https://marketplace.visualstudio.com/items?itemName=ms-vscode.theme-tester)
