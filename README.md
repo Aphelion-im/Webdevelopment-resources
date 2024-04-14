@@ -307,7 +307,6 @@ Updated: 14-4-2024
 ## Visual Studio Code Extensions
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
 * [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import)
-* [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)
 * [Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
