@@ -1,5 +1,5 @@
 # Resources
-Updated: 15-4-2024
+Updated: 26-4-2024
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -80,6 +80,7 @@ Updated: 15-4-2024
 * [Happy Hues - Curated Colors in Context](https://www.happyhues.co)
 * [Hexcolor - The Best Free Color Tools](https://hexcolor.co)
 * [Paletton.com](https://paletton.com)
+* [Visualize Your Colors & Fonts On a Real Site](https://www.realtimecolors.com)
 
 
 ## Create Images From Your Source Code
@@ -232,6 +233,9 @@ Updated: 15-4-2024
 
 ## Local Web Development
 * [MAMP](https://www.mamp.info/en/downloads/)
+
+## Logo
+* [LogoFast - Make beautiful logo's fast and free](https://logofa.st)
 
 ## Lorem Ipsum & Image Placeholders
 * [Lorem Picsum](https://picsum.photos)
