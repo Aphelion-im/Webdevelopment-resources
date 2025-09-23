@@ -1,9 +1,10 @@
 # Resources
-Updated: 27-4-2024
+Updated: 23-9-2025
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
 * [Another, bigger, resources list](https://free-for.dev/#/)
+* [Brad Traversy's Design resources for developers list](https://github.com/bradtraversy/design-resources-for-developers)
 * [Dr. Angela Yu Resources List](https://www.appbrewery.co/p/web-development-course-resources/)
 * [Jonas Schmedtmann Resources List](https://codingheroes.io/resources/)
 * [Kevin Powell Resources List](https://www.kevinpowell.co/resources/)
@@ -18,6 +19,7 @@ Updated: 27-4-2024
 ## A.I. - Tools
 * [Codeium - Free A.I. code completion and chat](https://codeium.com)
 * [Github Copilot](https://github.com/features/copilot)
+* [Upscayl - Open source AI image upscaler](https://upscayl.org/)
 
 ## API's
 * [Public APIs - A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
