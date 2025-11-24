@@ -1,5 +1,5 @@
 # Resources
-Updated: 23-9-2025
+Updated: 24-11-2025
 
 ## Other Resource Lists
 * [Andrei Neagoie/Zero To Mastery Resources List](https://zerotomastery.io/resources/)
@@ -17,7 +17,7 @@ Updated: 23-9-2025
 * [Stable Diffusion Online - Generate photo-realistic images given any text input](https://stablediffusionweb.com)
 
 ## A.I. - Tools
-* [Codeium - Free A.I. code completion and chat](https://codeium.com)
+* [Windsurf, formerly Codeium - Free A.I. code completion and chat](https://windsurf.com)
 * [Github Copilot](https://github.com/features/copilot)
 * [Upscayl - Open source AI image upscaler](https://upscayl.org/)
 
@@ -209,6 +209,7 @@ Updated: 23-9-2025
 
 
 ## Image Compression & Remove Image Meta/Exif Data
+* [Bulk Resize Photo's](https://bulkresizephotos.com)
 * [Check and remove Exif data](https://www.verexif.com/en/)
 * [Compress MP4, MOV, MP3, PDF, PNG, JPG, JPEG, GIF files](https://www.youcompress.com)
 * [JPG Optimizer](http://www.jpeg-optimizer.com)
@@ -305,6 +306,7 @@ Updated: 23-9-2025
 * [SVG Repo - SVG Vectors and Icons for Commercial us](https://www.svgrepo.com)
 * [SVG Waves](https://www.svgwaves.io)
 * [Undraw- Open Source Illustrations](https://undraw.co)
+* [Convert your PNG and JPG images to SVG vectors quickly and easily. Fully automatically. Using AI.](https://vectorizer.ai)
 
 ## Testing
 * [Browserstack](https://www.browserstack.com)
@@ -314,7 +316,6 @@ Updated: 23-9-2025
 * [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter)
 * [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import)
 * [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper)
-* [Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 * [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
